@@ -1,3 +1,10 @@
+
+参考文件：https://github.com/GitHubYingDeng/MSI-B460M-WIFI-10600-6600XT-BCM94352Z
+由于我是BCM94352Z/dw1560网卡，所以做了调整，mac11版本以上BCM94352Z/dw1560网卡，已经不支持隔空投送了，所以我提交的版本没有隔空投送
+# 以上是我修改的内容
+
+# 以下是fock的内容
+
 # MSI-B460M-10700-5500XT
 hackintosh: OpenCore + MSI B460M Mortar + i7 10700 + 5500XT
 
