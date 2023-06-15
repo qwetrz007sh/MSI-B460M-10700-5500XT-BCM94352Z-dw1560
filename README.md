@@ -2,6 +2,10 @@
 参考文件：https://github.com/GitHubYingDeng/MSI-B460M-WIFI-10600-6600XT-BCM94352Z
 - 由于我是BCM94352Z/dw1560网卡，所以做了调整，mac11版本以上BCM94352Z/dw1560网卡，已经不支持隔空投送了，所以我提交的版本没有隔空投送
 - 还有一点，我自己的显卡是Wx5100 8G 也正常使用
+
+  主板自带的ax200网卡参考：https://github.com/Spectrelai/Hackintosh-B460M-MORTAR-WIFI
+  主板更换的BCM94352Z/dw1560网卡参考：https://github.com/GitHubYingDeng/MSI-B460M-WIFI-10600-6600XT-BCM94352Z
+  Fenvi FV-T919 BCM94360CD网卡请参考：https://github.com/maemual/MSI-B460M-10700-5500XT
 # 以上是我修改的内容
 
 # 以下是fock的内容
