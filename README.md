@@ -4,12 +4,12 @@
 - 还有一点，我自己的显卡是Wx5100 8G 也正常使用
 
 ## 感谢列表
-1.主板自带的ax200网卡参考：https://github.com/Spectrelai/Hackintosh-B460M-MORTAR-WIFI
-2.主板更换的BCM94352Z/dw1560网卡参考：https://github.com/GitHubYingDeng/MSI-B460M-WIFI-10600-6600XT-BCM94352Z
-3.博通Fenvi FV-T919 BCM94360CD网卡请参考：https://github.com/maemual/MSI-B460M-10700-5500XT
+- 主板自带的ax200网卡参考：https://github.com/Spectrelai/Hackintosh-B460M-MORTAR-WIFI
+- 主板更换的BCM94352Z/dw1560网卡参考：https://github.com/GitHubYingDeng/MSI-B460M-WIFI-10600-6600XT-BCM94352Z
+- 博通Fenvi FV-T919 BCM94360CD网卡请参考：https://github.com/maemual/MSI-B460M-10700-5500XT
 # 以上是我修改的内容
 
-# 以下是fock的内容
+# 以下是fock的内容，重点感谢 https://github.com/maemual/MSI-B460M-10700-5500XT
 
 # MSI-B460M-10700-5500XT
 hackintosh: OpenCore + MSI B460M Mortar + i7 10700 + 5500XT
